@@ -6,7 +6,7 @@ const indexController = require('../controllers/admin');
 
 const router = express.Router();
 
-router.get('/index', indexController.getIndex);
+//router.get('/index', indexController.getIndex);
 
 module.exports = router;
 

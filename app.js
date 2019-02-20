@@ -6,25 +6,18 @@ const errController = require('./controllers/error');
 
 const app = express();
 
-//defining the login page
-const loginRoutes = require('./routes/login');
-//defining the page after login
 const adminRoutes = require('./routes/admin');
-
+const loginRoutes = require('./routes/login');
+const authRoutes = require('./routes/auth');
 app.use(express.static(path.join(__dirname, 'assets')));
+
 
 app.set('view engine', 'ejs');
 app.set('views', 'views');
 
-
-//setting up homepage which is login
-app.use('/', loginRoutes);
-
-
-//setting the dashboard page after login
-app.use('/index',adminRoutes);
-
-
-//app.use(errController.get404);
+app.use('/admin', adminRoutes);
+app.use(loginRoutes);
+app.use(authRoutes);
+app.use(errController.get404);
 
 app.listen(3000);
