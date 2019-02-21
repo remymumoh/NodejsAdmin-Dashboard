@@ -9,10 +9,6 @@ Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/d
 * Node version v11.6.0 and above
 * VisualCode/SublimeText, WebStorm
 
-### Getting Safaricom Credentials
-1. Create an account on the [Safaricom Developer Portal] (https://developer.safaricom.co.ke/)
-2. Create a Lipa na MPESA Online App
-
 ### Project Setup
 1. Git clone from github  
 2. Run npm install to update all the packages
@@ -20,7 +16,7 @@ Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/d
 ###  Screenshots
 
 ##### Login Page: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen3.jpg "Screen A")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/blob/master/art/screen3.jpg "Screen A")
 
 ##### Admin Dashboard: 
 ![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen1.jpg "Screen B")
