@@ -19,10 +19,10 @@ Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/d
 ![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/blob/master/art/screen3.jpg "Screen A")
 
 ##### Admin Dashboard: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen1.jpg "Screen B")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/blob/master/art/screen2.jpg "Screen B")
 
 ##### Page Not found: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen2.jpg "Screen C")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/blob/master/art/screen1.jpg "Screen C")
 
 
 
