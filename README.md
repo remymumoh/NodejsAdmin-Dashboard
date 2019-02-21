@@ -20,13 +20,13 @@ Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/d
 ###  Screenshots
 
 ##### Login Page: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen3.png "Screen A")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen3.jpg "Screen A")
 
 ##### Admin Dashboard: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen1.png "Screen B")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen1.jpg "Screen B")
 
 ##### Page Not found: 
-![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen2.png "Screen C")
+![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/tree/master/art/screen2.jpg "Screen C")
 
 
 
