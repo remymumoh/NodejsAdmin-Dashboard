@@ -10,3 +10,14 @@ exports.postLogin = (req, res, next) =>{
         path:'admin/index'
     });
 };
+exports.postCharts = (req, res, next) =>{
+  res.render('admin/charts',{
+      path: 'admin/charts'
+    });
+};
+exports.postWidgets = (req, res,next) =>{
+    res.render('admin/widgets', {
+       path: 'admin/widgets'
+    });
+
+};
