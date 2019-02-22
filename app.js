@@ -8,7 +8,6 @@ const app = express();
 
 const adminRoutes = require('./routes/admin');
 const loginRoutes = require('./routes/login');
-const authRoutes = require('./routes/auth');
 app.use(express.static(path.join(__dirname, 'assets')));
 
 
@@ -17,7 +16,6 @@ app.set('views', 'views');
 
 app.use('/admin', adminRoutes);
 app.use(loginRoutes);
-app.use(authRoutes);
 app.use(errController.get404);
 
 app.listen(3000);

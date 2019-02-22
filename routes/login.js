@@ -7,6 +7,6 @@ const loginController = require('../controllers/admin');
 const router = express.Router();
 
 router.get('/', loginController.getLogin);
-router.post('/auth', loginController.postLogin);
+router.post('/admin/index', loginController.postLogin);
 
 module.exports = router;

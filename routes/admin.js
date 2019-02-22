@@ -2,12 +2,11 @@ const path = require('path');
 
 const express = require('express');
 
-const indexController = require('../controllers/admin');
-
 const router = express.Router();
 
-//router.get('/index', indexController.getIndex);
+const adminDashBoard = require('../controllers/admin');
 
+router.use('/index', adminDashBoard.postLogin);
 module.exports = router;
 
 

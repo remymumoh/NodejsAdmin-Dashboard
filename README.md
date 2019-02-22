@@ -1,4 +1,4 @@
-NodeJS Admin Dashboard
+Already Packaged NodeJS Admin Dashboard
 ------------------------------
 This app demonstrates how to implement NodeJS Admin Dashboard.
 Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/docs/
@@ -23,7 +23,6 @@ Documentation on NodeJs can be found on [NodeJs Website] https://nodejs.org/en/d
 
 ##### Page Not found: 
 ![alt text](https://github.com/remymumoh/NodejsAdmin-Dashboard/blob/master/art/screen1.jpg "Screen C")
-
 
 
 ### Libraries Used
